@@ -1,0 +1,10 @@
+My dear Anna, let me congratulate you on the beautiful car that you purchased today. It looks very posh. I hope you got a good deal. Cars are expensive but much needed. Best regards, Naomi.
+{{"Anna", "Jovi and Victor"} , { "car", "house"}, {"today", "last week"}, {"posh", "well built"}, {"Cars", "Houses"}};
+Our new student has been asked to stay today until the end of the classes. The old principal.
+{ {"new", "old"} , { "student", "teacher"}, {"today", "yesterday"}, {"elderly", "young"}, {"end","beginning"}}
+Happy anniversary my love, wishing us many more years of happiness!
+{{"anniversary", "birthday"},{"love","friend"},{"us","you"}}
+Where is the bathroom? The cheese is old and moldy.
+{{"bathroom", "elevator"},{"cheese","stairs"},{"is","are"},{"old and moldy", "under construction"}}
+Dear honors students, I would like to congratulate you on your success this semester!
+{{"honors","probation"},{"congratulate", "warn"},{"on","of"},{"success","failure"}, {"!",","} }
