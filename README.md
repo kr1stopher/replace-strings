@@ -1,6 +1,6 @@
 # CPSC535-SP21-Project1
 Rewriting greeting cards
-Author: Kris Swartzbaugh, Campus Email kswartzb@csu.fullerton.edu
+Author: Kris Swartzbaugh  (kswartzb@csu.fullerton.edu)
 
 # Project Description
 
